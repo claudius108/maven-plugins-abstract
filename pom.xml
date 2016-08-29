@@ -4,13 +4,14 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>ro.kuberam.maven.plugins</groupId>
+		<groupId>ro.kuberam</groupId>
 		<artifactId>base</artifactId>
-		<version>0.2.1</version>
+		<version>0.1</version>
 	</parent>
 
+	<groupId>ro.kuberam.maven.plugins</groupId>
 	<artifactId>abstract</artifactId>
-	<version>0.1.4</version>
+	<version>0.1.5</version>
 	<packaging>jar</packaging>
 	<name>kuberam expath abstract plugin</name>
 	<description>Abstract plugin for kuberam maven plugins</description>
